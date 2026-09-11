@@ -4,7 +4,7 @@ document.querySelector('#app').innerHTML = `
   <main class="container">
     <p class="eyebrow">NEWBITHON PRACTICE</p>
 
-    <h1>뉴비톤 연습 Todo</h1>
+    <h1>뉴비톤 D-1 Todo</h1>
 
     <p>내일 준비할 일을 적어보세요.</p>
 
